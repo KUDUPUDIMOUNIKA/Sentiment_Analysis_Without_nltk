@@ -1,1 +1,1 @@
-# Sentiment-Analysis
+Sample python Project which aims to develop a system that can automatically determine the emotions behind the words sample python project developed using simple python libraries such as matplotlib, collections and strings.
